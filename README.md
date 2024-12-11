@@ -1,5 +1,3 @@
-From the diagram, here's the interpreted workflow:
-
 1. **Common Voice Dataset**:
    - Input: Contains fields such as audio, age, text, and gender.
    - Output: This data is used as input to various models:
@@ -26,5 +24,3 @@ The workflow processes the Common Voice and sentiment datasets to perform:
 - Age/gender classification from audio using Wav2Vec2.
 - Language determination from text.
 - Sentiment analysis using Multilingual BERT.
-
-Let me know if you'd like more detailed steps or clarifications!

@@ -1,7 +1,11 @@
 .DS_Store
 secret.txt
-training/RAVDESS/ 
+
 *.cpy
 *.cpython 
 model.safetensors
+model_cache/
+src/models
+RAVDESS/
+__pycache__/
 

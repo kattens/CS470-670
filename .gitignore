@@ -8,4 +8,5 @@ model_cache/
 src/models
 RAVDESS/
 __pycache__/
+src/training/RAVDESS
 
